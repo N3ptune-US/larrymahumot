@@ -66,11 +66,10 @@
  <summary align="center"> </samp></summary>
  <p align ="centre"> Refresh page to load New joke</p>
  </details><br>
- </div>
-
+ 
 ### :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v: :heart: 💬
  
-
+ </div>
 
 
 
