@@ -62,7 +62,7 @@
  <p align ="centre"> Refresh page to load New joke</p>
  </details><br>
 
-> :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v: :heart: 💬
+  :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v: :heart: 💬
  </div>
 
 
