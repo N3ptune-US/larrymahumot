@@ -14,10 +14,6 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
-<!--
-### :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v:
-**Say Hi on Twitter([@larrymahumot](https://twitter.com/larrymahumot))!** :heart: 💬-->
-
 ## 🎧 Spotify Playing
 
 [![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
@@ -72,7 +68,8 @@
  </details><br>
  </div>
 
-
+### :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v:
+**Say Hi on Twitter([@larrymahumot](https://twitter.com/larrymahumot))!** :heart: 💬
 
 
 
