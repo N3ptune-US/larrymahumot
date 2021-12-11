@@ -68,8 +68,8 @@
  </details><br>
  </div>
 
-### :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v:
-**Say Hi on Twitter([@larrymahumot](https://twitter.com/larrymahumot))!** :heart: 💬
+### :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/larrymahumot)! :v: :heart: 💬
+ 
 
 
 
