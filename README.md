@@ -71,7 +71,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
-  <br><br>
+<br><br>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
@@ -81,7 +81,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
-  <br><br>
   <kbd>
     <kbd>Adobe Tools</kbd>
     <br>
