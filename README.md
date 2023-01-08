@@ -72,7 +72,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
   <br>
-    <br>
   <kbd>
     <kbd>Editing Tool</kbd>
     <br>
