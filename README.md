@@ -115,6 +115,15 @@
 <a href="https://github.com/larrymahumot/google-it-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a><br>
+
+<a href="https://github.com/larrymahumot">
+  <img align="center" width="49%" src="./overall.svg" />
+</a>
+<a href="https://github.com/larrymahumot">
+  <img align="center" width="49%" src="./achievements.svg" />
+</a>
+
+
 <!---
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
