@@ -108,7 +108,6 @@
   <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
-
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="./overall.svg" />
 </a>
