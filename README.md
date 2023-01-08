@@ -71,6 +71,14 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
+  <kbd>
+    <kbd>Editing Tool</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
+  </kbd>
   <br/>
   <br/>
 <!------
