@@ -118,13 +118,13 @@
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=github_dark)
 
 <!---
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=github_dark)
 --->
 <a href="https://github.com/larrymahumot/google-it-support">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=github_dark" />
 </a>
 <a href="https://github.com/larrymahumot/google-it-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=github_dark" />
 </a><br>
 
 
