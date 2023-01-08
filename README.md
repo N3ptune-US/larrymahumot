@@ -76,9 +76,9 @@
     <kbd>Editing Tool</kbd>
     <br>
     <br>
-    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
-    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
-    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" />
   </kbd>
   <br/>
   <br/>
