@@ -115,13 +115,15 @@
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=github_dark)
 
 <!---
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=github_dark)
 --->
 <a href="https://github.com/larrymahumot/google-it-support">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=github_dark" /> <br>
+
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=github_dark)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=github_dark" /> <br><br>
 <a href="https://github.com/larrymahumot/google-it-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=github_dark" />
 </a><br>
