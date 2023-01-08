@@ -120,7 +120,7 @@
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=dark&hide_title=true)](https://github.com/larrymahumot)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larrymahumot&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/larrymahumot)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=dark)
 <hr>-->
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=radical)
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=github_dark)
 
 <!---
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
