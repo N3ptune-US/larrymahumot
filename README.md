@@ -115,7 +115,12 @@
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
+<p align="center">
+
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=github_dark)
+
+</p>
+
 <!---
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=github_dark)
 --->
