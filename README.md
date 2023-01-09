@@ -87,6 +87,13 @@
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
   </kbd>
+  <kbd>
+    <kbd>Cloud Computing</kbd>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/amazon-web-services.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/google-cloud.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
+  </kbd>
   <br/>
   <br/>
 
