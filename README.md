@@ -130,8 +130,6 @@
 </a>
 <br>
 
-
-<!---
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
@@ -146,7 +144,7 @@
  <summary align="center"> </samp></summary>
  <p align ="centre"> Refresh page to load New joke</p>
  </details><br>
----->
+
 
 
 
