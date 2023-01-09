@@ -96,11 +96,10 @@
     <img width="30px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
   </kbd>
   <kbd>
-    <kbd>Cloud</kbd>
+    <kbd>Virtual Machine</kbd>
     <br>
     <img width="30px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/old-vmware-logo.png" />
-    <img width="30px" src="https://img.icons8.com/doodle/42/000000/console--v2.png" />
   </kbd>
   <br/>
   <br/>
