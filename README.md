@@ -140,7 +140,7 @@
 <a href="https://github.com/larrymahumot/google-it-support">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=midnight-purple" /> &nbsp;
 <a href="https://github.com/larrymahumot/google-it-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=vision-friendly-dark" />
 </a>
 <br><br>
 <div align="center">
