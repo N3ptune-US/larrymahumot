@@ -143,21 +143,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=github_dark" />
 </a>
 <br>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
+<!------
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /></p>
-
 <div align="center"><br><p align="centre"><b> Here is a random joke that'll mark your day!</b></p> 
- 
+
  ![Jokes Card](https://readme-jokes.vercel.app/api)<details>
- 
  <summary align="center"> </samp></summary>
  <p align ="centre"> Refresh page to load New joke</p>
  </details><br>
+ ---->
 
 
 
