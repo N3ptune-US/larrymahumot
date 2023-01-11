@@ -142,7 +142,7 @@
 <a href="https://github.com/larrymahumot/google-it-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=github_dark" />
 </a>
-<br>
+<br><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
