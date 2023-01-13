@@ -137,9 +137,6 @@
 </a>
 </div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/larrymahumot/langs)](https://githubtrends.io)
-
-
 <br><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
