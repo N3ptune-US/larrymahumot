@@ -116,10 +116,10 @@
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
 <a href="https://github.com/larrymahumot">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/larrymahumot">
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
 <a href="https://github.com/larrymahumot">
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=midnight-purple)
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=chartreuse-dark)
 </div>
 
 <!---
@@ -140,7 +140,7 @@
 <a href="https://github.com/larrymahumot/google-it-support">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=chartreuse-dark" /> &nbsp;
 <a href="https://github.com/larrymahumot/google-it-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=chartreuse-dark" />
 </a>
 <br><br>
 <div align="center">
