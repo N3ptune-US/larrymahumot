@@ -114,7 +114,8 @@
 [![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
-
+<div align="center">
+![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
 
 
 <!---
@@ -123,8 +124,6 @@
 </a>
 ---->
 <a href="https://github.com/larrymahumot">
-
-![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
   <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
@@ -134,12 +133,16 @@
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
+</div>
 
+<br><br>
 <div align="center">
-
-
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
+</div>
 
 <!----
+<div align="center">
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=chartreuse-dark)
 </div>
 ----->
@@ -151,11 +154,6 @@
 <a href="https://github.com/larrymahumot/google-it-automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=chartreuse-dark" />
 </a>
-<br><br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
-</div>
 --->
 <!------
 <p align="center">
