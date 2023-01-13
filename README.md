@@ -117,6 +117,7 @@
 <div align="center">
 
 ![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=larrymahumot1&theme=dark)](https://git.io/streak-stats)
 
 <!---
 <a href="https://github.com/larrymahumot">
