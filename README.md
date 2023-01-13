@@ -115,8 +115,8 @@
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 <div align="center">
-![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
 
+![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
 
 <!---
 <a href="https://github.com/larrymahumot">
