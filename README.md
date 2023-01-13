@@ -116,9 +116,6 @@
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 <div align="center">
 
-![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=larrymahumot1&theme=dark)](https://git.io/streak-stats)
-
 <!---
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
