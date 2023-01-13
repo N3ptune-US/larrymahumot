@@ -132,14 +132,14 @@
 <div align="center">
 
 ![Larry Mahumot's Github Stats](https://github-stats-alpha.vercel.app/api?username=larrymahumot)
+
 <!----
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=chartreuse-dark)
 </div>
 ----->
-
 <!---
 ![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=chartreuse-dark)
---->
+
 <a href="https://github.com/larrymahumot/google-it-support">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=chartreuse-dark" /> &nbsp;
 <a href="https://github.com/larrymahumot/google-it-automation">
@@ -150,6 +150,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
 </div>
+--->
 <!------
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /></p>
