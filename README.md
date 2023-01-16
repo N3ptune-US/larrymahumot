@@ -8,11 +8,15 @@
 
 > I'm a Filipino Network Engineer from Philippines.
 > 
+
 - 🔭 I’m currently working ... on building a github portfolio
-- 🌱 I’m currently learning ... networking Cisco Certified Network Associate(CCNA) and Solutions Architect Associate(AWS).
+- 🌱 I’m currently learning ... Networking CCNA, AWS, AZURE
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ I love connecting with different people :raised_hands:
+- 👀 I’m interested in CCNA, SAA, AZURE, GCP, CYBERSECURITY
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Email: larrymahumot@gmail.com
 
 ## 🎧 Spotify Playing
 
