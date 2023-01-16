@@ -140,13 +140,13 @@
 </p>
 </p>
 
-<a href="https://github.com/larrymahumot"></a>
+<!---
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="./overall.svg" />
 </a>
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="./achievements.svg" />
-</a>
+</a>--->
 </div>
 
 ## Github Metrics
