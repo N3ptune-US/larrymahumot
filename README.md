@@ -120,7 +120,7 @@
 <a href="https://github.com/larrymahumot">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&langs_count=8&theme=algolia"/>
-   <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=larrymahumot" />
+   <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=larrymahumot&layout=compact&langs_count=8&theme=algolia"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
  </a>
 <!---
