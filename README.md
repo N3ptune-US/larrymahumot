@@ -121,6 +121,21 @@
   <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="125" height="125">
 </p>
 
+##  **My Achievements 🏆**
+- [AWS Learning](https://www.credly.com/badges/b2d7d935-76d1-4136-ae19-88a1e693bac1/public_url)
+- [AWS Learning](https://www.credly.com/badges/3c96b578-9ff7-4918-b361-10a81471db94/public_url)
+- [AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://www.credly.com/badges/2d1d2fca-4d47-479a-b529-71f7a20181ea/public_url)
+- [Google IT Automation with Python](https://www.credly.com/badges/99933589-c224-46c1-97c1-19489fb5fd60/public_url)
+- [Google IT Support](https://www.credly.com/badges/6dc7258f-0381-410e-af36-14fc47ed60ee/public_url)
+- [IBM Cybersecurity Analyst Professional](https://www.credly.com/badges/05944674-cdd9-4c84-b689-3fbae4f7e6bb/public_url)
+
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="125" height="125">
+    <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="125" height="125">
+      <img src="https://images.credly.com/size/340x340/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png" width="125" height="125">
+       <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
+        <img src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="125" height="125">
+         <img src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="125" height="125">
 
 ### :octocat: Profile Views
 
