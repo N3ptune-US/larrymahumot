@@ -147,7 +147,6 @@
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
 </div>
-<h2>GitHub Analytics ⚙️</h2>
 
 ## Github Metrics
 <p align="center">
