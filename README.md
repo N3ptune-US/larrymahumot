@@ -127,15 +127,6 @@
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
-<p align="center">
-<a href="https://github.com/larrymahumot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-</p>
 
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="./overall.svg" />
