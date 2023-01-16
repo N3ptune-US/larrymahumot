@@ -126,15 +126,11 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />--->
 </p>
 </p>
-<!---
+
 <a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-
-<!----
-<a href="https://github.com/larrymahumot">
   <img align="center" width="49%" src="https://github-stats-alpha.vercel.app/api?username=larrymahumot" />
-</a>-->
+</a>
 
 <a href="https://github.com/larrymahumot"></a>
 <a href="https://github.com/larrymahumot">
