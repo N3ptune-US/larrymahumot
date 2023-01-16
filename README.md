@@ -103,24 +103,24 @@
   </kbd>
   <br/>
   <br/>
-
+<!---
 <img src="https://img.icons8.com/color/42/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/42/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/42/000000/azure-1.png"/> <img src="https://img.icons8.com/color/42/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/42/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/42/000000/css3.png"/> <img src="https://img.icons8.com/color/42/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/42/000000/php.png"> <img src="https://img.icons8.com/color/42/000000/python.png"/> <img src="https://img.icons8.com/color/42/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/42/000000/javascript--v1.png"/> <img src="https://img.icons8.com/doodle/42/000000/console--v2.png"/> <img src="https://img.icons8.com/color/42/000000/old-vmware-logo.png"/><img src="https://img.icons8.com/color/42/000000/virtualbox.png"/> <img src="https://img.icons8.com/fluent/42/000000/sublime-text.png"/> <img src="https://img.icons8.com/fluent/github"> <img src="https://img.icons8.com/color/42/000000/parrot.png"> <img src="https://img.icons8.com/color/42/000000/kali-linux.png"> <img src="https://img.icons8.com/color/42/000000/ubuntu.png"> <img src="https://img.icons8.com/color/42/000000/linux.png"> <img src="https://img.icons8.com/fluent/42/000000/windows-10.png"> <img src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png"/> <img src="https://img.icons8.com/color/42/000000/adobe-illustrator.png"/>
-<img src="https://img.icons8.com/color/42/000000/adobe-photoshop.png"/>
+<img src="https://img.icons8.com/color/42/000000/adobe-photoshop.png"/>--->
 
 ##  **My Certifications 🏅**
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/68f70689-6b23-4d5c-b5d5-8768b47c1a0c/public_url)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/80dd022b-b671-41b4-9aa5-ea05208f90cf/public_url)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/d421b608-789d-4185-9a82-b1e6b0b2e8be/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/dbc71e69-fb2e-4434-95f9-c02e4e23c517/public_url)
-- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/larrymahumot)
+- See all my Certifications here [Credly](https://www.credly.com/users/larrymahumot)
 
 <p align="left">
   <img src="https://www.credly.com/badges/68f70689-6b23-4d5c-b5d5-8768b47c1a0c/azure-administrator-600x600.png" width="125" height="125">
   <img src="https://www.credly.com/badges/80dd022b-b671-41b4-9aa5-ea05208f90cf/azure-fundamental-600x600.png" width="125" height="125">
   <img src="https://www.credly.com/badges/d421b608-789d-4185-9a82-b1e6b0b2e8be/azure-scif-600x600.png" width="125" height="125">
   <img src="https://www.credly.com/badges/dbc71e69-fb2e-4434-95f9-c02e4e23c517/azure-data-fundamentals-600x600.png" width="125" height="125">
-
 </p>
+
 ### :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
