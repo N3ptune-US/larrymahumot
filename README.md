@@ -122,8 +122,8 @@
 </p>
 
 ##  **My Achievements 🏆**
-- [AWS Learning](https://www.credly.com/badges/b2d7d935-76d1-4136-ae19-88a1e693bac1/public_url)
-- [AWS Learning](https://www.credly.com/badges/3c96b578-9ff7-4918-b361-10a81471db94/public_url)
+- [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/b2d7d935-76d1-4136-ae19-88a1e693bac1/public_url)
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/3c96b578-9ff7-4918-b361-10a81471db94/public_url)
 - [AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://www.credly.com/badges/2d1d2fca-4d47-479a-b529-71f7a20181ea/public_url)
 - [Google IT Automation with Python](https://www.credly.com/badges/99933589-c224-46c1-97c1-19489fb5fd60/public_url)
 - [Google IT Support](https://www.credly.com/badges/6dc7258f-0381-410e-af36-14fc47ed60ee/public_url)
