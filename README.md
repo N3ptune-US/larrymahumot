@@ -144,19 +144,20 @@
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 <div align="center">
-
 <p align="center">
 <a href="https://github.com/larrymahumot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
-</p>
+</div>
+<div align="center" style="display: flex; ">
+<img src="https://streak-stats.demolab.com?user=larrymahumot&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 </div>
 
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Kashif Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" /></a>
-  
+
 ## Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/larrymahumot/larrymahumot/blob/main/github-metrics.svg" />
