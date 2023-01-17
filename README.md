@@ -152,17 +152,11 @@
  </a>
 </p>
 </p>
-
-<!---
-<a href="https://github.com/larrymahumot">
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-  <img align="center" width="49%" src="./overall.svg" />
-</a>
-<a href="https://github.com/larrymahumot">
-  <img align="center" width="49%" src="./achievements.svg" />
-</a>--->
 </div>
 
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Kashif Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" /></a>
+  
 ## Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/larrymahumot/larrymahumot/blob/main/github-metrics.svg" />
@@ -172,6 +166,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
 </div>
+
 
 
 
