@@ -163,7 +163,7 @@
 	<img width="625em" src="https://github.com/larrymahumot/larrymahumot/blob/main/github-metrics.svg" />
 </p>
 <p align="center">
-  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03&theme=github_dark" />
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larrymahumot&theme=github_dark" />
 </p>
 
 <br><br>
