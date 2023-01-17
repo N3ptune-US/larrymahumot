@@ -150,13 +150,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&langs_count=8&theme=algolia"/>
  </a>
-<!---
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />--->
 </p>
 </p>
 
 <!---
 <a href="https://github.com/larrymahumot">
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=larrymahumot&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <img align="center" width="49%" src="./overall.svg" />
 </a>
 <a href="https://github.com/larrymahumot">
@@ -174,31 +173,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
 </div>
 
-<!----
-<div align="center">
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=chartreuse-dark)
-</div>
------>
-<!---
-![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=chartreuse-dark)
 
-<a href="https://github.com/larrymahumot/google-it-support">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&theme=chartreuse-dark" /> &nbsp;
-<a href="https://github.com/larrymahumot/google-it-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&theme=chartreuse-dark" />
-</a>
---->
-<!------
-<p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /></p>
-<div align="center"><br><p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
-
-<!----- 
- ![Jokes Card](https://readme-jokes.vercel.app/api)<details>
- <summary align="center"> </samp></summary>
- <p align ="centre"> Refresh page to load New joke</p>
- </details><br>
- ---->
 
 
 
