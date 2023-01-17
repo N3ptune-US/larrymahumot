@@ -152,7 +152,7 @@
 </p>
 </div>
 <div align="center" style="display: flex; ">
-<img src="https://streak-stats.demolab.com?user=larrymahumot&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=larrymahumot&_border=true&theme=dark&hide_border=true&theme=react" style="width: 100%" />
 </div>
 
 <h2 align="left">⚡Activity Graph:</h2>
