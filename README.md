@@ -161,11 +161,10 @@
 ## Github Metrics
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larrymahumot&theme=github_dark" />
-
-[GitHub metrics](https://metrics.lecoq.io/larrymahumot)
-
 </p>
-
+<p align="center">
+  <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
+</p>
 
 
 <br><br>
