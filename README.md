@@ -170,9 +170,9 @@
 </p>
 <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
-  <img width="625em" src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
+![aquillae777](profile-3d-contrib/profile-night-rainbow.svg)
 <br><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
