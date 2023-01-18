@@ -166,7 +166,6 @@
     <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
   </a>
 
-
 ## Github Metrics
 <p align="center">
   <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larrymahumot&theme=github_dark" />
