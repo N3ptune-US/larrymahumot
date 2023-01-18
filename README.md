@@ -170,6 +170,7 @@
 </p>
 <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
+  <img width="625em" src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 <br><br>
