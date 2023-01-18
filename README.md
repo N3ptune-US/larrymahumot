@@ -162,7 +162,10 @@
 </div>
 
 <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" />
+    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  </a>
+
 
 ## Github Metrics
 <p align="center">
@@ -171,8 +174,6 @@
 <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
 </p>
-
-![aquillae777](profile-3d-contrib/profile-night-rainbow.svg)
 <br><br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
