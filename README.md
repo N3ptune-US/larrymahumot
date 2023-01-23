@@ -4,16 +4,20 @@
 
 📫 Connect with me:
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larrymahumot/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot) 
+### Hi there, I am Larry 👋
+[![Linkedin Badge](https://img.shields.io/badge/-larrymahumot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larrymahumot/)](https://www.linkedin.com/in/larrymahumot/)
+[![Gmail Badge](https://img.shields.io/badge/-larrymahumot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larrymahumot@gmail.com)](mailto:larrymahumot@gmail.com) 
+<!--
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larrymahumot/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot)--->
 
 > I'm a Filipino Network Engineer from Philippines.
 > 
 
-<img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="410" height="320">
+<img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="390" height="300">
 
-- 👨‍💻 All of my projects are available at <a href="https://larrymahumot.github.io/">https://larrymahumot.github.io/</a>
+- 🎯 Portfolio website: [Portfolio](https://larrymahumot.github.io/)
 - 🔭 I’m currently working ... on building a github portfolio
-- 🌱 I’m currently learning ... Networking CCNA, AWS, AZURE
+- 👨‍💻  I’m currently learning ... Networking CCNA, AWS, AZURE
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ I love connecting with different people :raised_hands:
