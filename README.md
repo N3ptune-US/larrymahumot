@@ -1,12 +1,12 @@
 
 ## Hi there, I am Larry 👋
-<!---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)--->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
 
 📫 Connect with me:
-
+<!---
 [![Linkedin Badge](https://img.shields.io/badge/larrymahumot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larrymahumot/)](https://www.linkedin.com/in/larrymahumot/)
-[![Gmail Badge](https://img.shields.io/badge/larrymahumot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larrymahumot@gmail.com)](mailto:larrymahumot@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/larrymahumot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larrymahumot@gmail.com)](mailto:larrymahumot@gmail.com)--->
 
 <img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="390" height="300">
 <!--
