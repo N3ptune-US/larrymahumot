@@ -1,8 +1,8 @@
 # Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
+
+<img align="right" src="https://github.com/larrymahumot/networking.gif" alt="Coder GIF" width="420" height="330">
 
 📫 Connect with me:
 
