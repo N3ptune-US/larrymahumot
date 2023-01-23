@@ -177,14 +177,13 @@
 </p>
 <p align="center">
   <img width="625em" src="https://metrics.lecoq.io/larrymahumot" />
-</p><br>
-<div align="center">
-    <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
-</div><br>
-
+</p>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
+</div>
+<div align="center">
+    <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
 </div>
 
 
