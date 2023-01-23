@@ -9,7 +9,7 @@
 > I'm a Filipino Network Engineer from Philippines.
 > 
 
-<img align="right" src="https://github.com/larrymahumot/larrymahumot/networking.gif" alt="Coder GIF" width="410" height="320">
+<img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="410" height="320">
 
 - 👨‍💻 All of my projects are available at <a href="https://larrymahumot.github.io/">https://larrymahumot.github.io/</a>
 - 🔭 I’m currently working ... on building a github portfolio
