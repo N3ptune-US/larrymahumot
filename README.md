@@ -1,4 +1,4 @@
-# Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
 
@@ -8,6 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-larrymahumot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larrymahumot/)](https://www.linkedin.com/in/larrymahumot/)
 [![Gmail Badge](https://img.shields.io/badge/-larrymahumot@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larrymahumot@gmail.com)](mailto:larrymahumot@gmail.com) 
 <!--
+# Hi, I'm Larry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larrymahumot/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot)--->
 
 > I'm a Filipino Network Engineer from Philippines.
