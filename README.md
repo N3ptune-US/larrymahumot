@@ -13,7 +13,6 @@
 > 
 
 
-- 🎯 Portfolio website: [Portfolio](https://larrymahumot.github.io/)
 - 🔭 I’m currently working ... on building a github portfolio
 - 👨‍💻  I’m currently learning ... Networking CCNA, AWS, AZURE
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -21,6 +20,7 @@
 - ⚡ I love connecting with different people :raised_hands:
 - 👀 I’m interested in CCNA, SAA, AZURE, GCP, CYBERSECURITY
 - 💞️ I’m looking to collaborate on ...
+- 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/)
 - 📫 How to reach me Email: larrymahumot@gmail.com
 
 ## 🎧 Spotify Playing
