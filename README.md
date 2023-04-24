@@ -1,5 +1,5 @@
 
-## Hi there, I am Larry 👋
+## Hi there, I am N3ptune 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
 
@@ -9,25 +9,15 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larrymahumot/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot)
 
-> I'm a Filipino Network Engineer from Philippines.
+> I'm a Cybersecurity Student just messing around with anything I can get my hands on!
 > 
 
 
-- 🔭 I’m currently working ... on building a github portfolio
-- 👨‍💻  I’m currently learning ... Networking CCNA, AWS, AZURE
+- 🔭 I’m currently working ... building an offline communication system with Meshtastic
+- 👨‍💻  I’m currently learning ... Networking, Cybersecurity, Radios, SIGINT 
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ I love connecting with different people :raised_hands:
-- 👀 I’m interested in CCNA, SAA, AZURE, GCP, CYBERSECURITY
-- 💞️ I’m looking to collaborate on ...
-- 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/)
-- 📫 How to reach me Email: larrymahumot@gmail.com
-
-## 🎧 Spotify Playing
-
-[![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
-
-[![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
+- 🎯 Pesonal Portfolio Website: [Portfolio]()
+- 📫 Reach me on Discord: [N3ptune#5137](discordapp.com/users/349565729332264960) 
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 <kbd>
